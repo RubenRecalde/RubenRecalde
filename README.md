@@ -8,6 +8,8 @@
 <div align="center">
   <a href="https://github.com/RubenRecalde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubenRecalde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenRecalde&layout=compact)](https://github.com/RubenRecalde/github-readme-stats)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenRecalde&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
