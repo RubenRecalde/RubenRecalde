@@ -8,18 +8,14 @@ I'm Ruben Recalde
 
 - 🔭 I’m currently working on Odoo Developer
 
+<br>
 
 
 <!-- Painel de Trabalhos -->
 
 <div>
-
  <a href="https://github.com/RubenRecalde">
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubenRecalde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenRecalde&layout=compact&langs_count=7&theme=dark"/>
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubenRecalde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenRecalde&langs_count=7&theme=dark&layout=compact"/>
 </div> <br>
 
 <!-- Contatos -->
@@ -28,13 +24,7 @@ I'm Ruben Recalde
 
  <div>   
 
- <a href="https://discord.gg/H4JTzhCb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank"></a> 
-
- <a href = "mailto:ruben.recalde@criterium.com.py"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
-
- <a href = "https://www.linkedin.com/in/ruben-recalde-3b558b7b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- <a href = "https://api.whatsapp.com/send?phone=595983372052" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+<a href = "mailto:ruben.recalde@criterium.com.py"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/ruben-recalde-3b558b7b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "https://api.whatsapp.com/send?phone=595983372052" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 
                                            
 
