@@ -4,7 +4,7 @@
 
 - 🔭 Senior Developer on Odoo
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenRecalde&count_private=true&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenRecalde&count_private=true&theme=dracula&include_all_commits=true&show_icons=true)
 
 <div align="center">
   <a href="https://github.com/RubenRecalde">
